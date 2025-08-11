@@ -3,11 +3,11 @@
 To ensure code quality and enforce PEP 8 compliance, install the following tools:
 
 ```sh
-pip install pre-commit flake8 ruff skat
+pip install pre-commit flake8 ruff
 pre-commit install
 ```
 
-This will set up pre-commit hooks using `flake8`, `ruff`, and `skat` to automatically check your code before each commit.
+This will set up pre-commit hooks using `flake8` and `ruff` to automatically check your code before each commit.
 
 **Steps:**
 1. Run the above commands in your project root directory.
