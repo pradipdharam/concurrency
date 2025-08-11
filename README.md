@@ -3,7 +3,7 @@
 To ensure code quality and enforce PEP 8 compliance, install the following tools:
 
 ```sh
-pip install pre-commit flake8 ruff
+pip install pre-commit flake8 ruff black
 pre-commit install
 ```
 
