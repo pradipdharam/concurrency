@@ -1,4 +1,15 @@
-# Setup Linting and Pre-commit Hooks
+# Concurrency and its Hazards Demonstration
+
+This repo demonstrates key **concurrency hazards** in multithreaded programming:
+
+- **Race Conditions**
+- **Memory Visibility Issues**
+- **Instruction Reordering**
+
+Understanding these issues is essential when building thread-safe applications.
+
+
+# Setup Linting and Pre-commit Hooks to enhance this repo
 
 To ensure code quality and enforce PEP 8 compliance, install the following tools:
 
